@@ -16,8 +16,8 @@ There is also a musical accompaniment, including a title theme (the intro to
 the first gen Pokemon wild battle music), a main theme (the body of said wild
 battle music), and various sound effects.
 
-
 Questions? Contact me at dev.philip.garrison@gmail.com
 
 Copyright (C) 2014 Philip Garrison
+
 See LICENSE for more information.
